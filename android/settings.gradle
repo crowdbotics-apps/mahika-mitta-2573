@@ -1,0 +1,3 @@
+rootProject.name = 'mahika_mitta_2573'
+
+include ':app'
